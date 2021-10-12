@@ -1,2 +1,2 @@
-# branches_github
+# Branches Github
 Testing the github's branches
